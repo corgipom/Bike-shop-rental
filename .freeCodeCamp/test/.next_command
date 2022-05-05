@@ -4,3 +4,8 @@ echo hello terminal
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 psql --username=freecodecamp --dbname=postgres
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+touch bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
