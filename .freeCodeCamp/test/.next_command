@@ -139,3 +139,7 @@ history -a
 ./bike-shop.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo '28 | Mountain'
+sed 's/ /=/g'
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
