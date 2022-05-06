@@ -227,3 +227,14 @@ history -a
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 ./bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bike-shop.sh 1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
