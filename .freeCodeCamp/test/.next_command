@@ -193,3 +193,6 @@ history -a
 echo "$(echo ' M e ' | sed 's/^ //g')."
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo "$(echo ' M e ' | sed 's/^ //g')."
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
